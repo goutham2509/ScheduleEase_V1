@@ -1,0 +1,52 @@
+* [33m54260de[m[33m ([m[1;32mmain[m[33m)[m internal user booking works sucessfully
+* [33mbc0bbd1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/integration/admin[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mintegration/admin[m[33m)[m Slot adding availability
+*   [33mc70d611[m Merged remote and local main branches safely
+[32m|[m[33m\[m  
+[32m|[m * [33m60b5e13[m index.html added
+* [33m|[m   [33m457767d[m Merged integration/adithya into main (resolved conflicts)
+[33m|[m[35m\[m [33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+* [35m|[m   [33mb1ec021[m Accepted incoming (theirs) changes for App.css, package.json, and package-lock.json
+[36m|[m[1;31m\[m [35m\[m  
+[36m|[m * [35m|[m [33mc46df0e[m deleted server
+[36m|[m * [35m|[m [33mca8e6d5[m updated whole client route work in remaining
+[36m|[m * [35m|[m [33mbdf02f0[m docs: Initial setup complete for harsh kumar
+* [1;31m|[m [35m|[m   [33m4cc370f[m Merge pull request #3 from harshkandra/main
+[1;32m|[m[1;33m\[m [1;31m\[m [35m\[m  
+[1;32m|[m * [1;31m|[m [35m|[m [33m0566da4[m Remove all files
+[1;32m|[m * [1;31m|[m [35m|[m [33mcba4d70[m update the admin dashboard with all seamless tabs and also navigate existing component modal
+[1;32m|[m * [1;31m|[m [35m|[m [33m98fb4fb[m updated reschedule and cancel component
+[1;32m|[m [1;31m|[m[1;31m/[m [35m/[m  
+* [1;31m|[m [35m|[m   [33m18c8f40[m Merge pull request #2 from ARSheretolearn/revert-1-setup/raptor
+[1;34m|[m[1;35m\[m [1;31m\[m [35m\[m  
+[1;34m|[m * [1;31m|[m [35m|[m [33md0d5934[m[33m ([m[1;31morigin/revert-1-setup/raptor[m[33m)[m Revert "Setup/raptor"
+[1;34m|[m[1;34m/[m [1;31m/[m [35m/[m  
+* [1;31m|[m [35m|[m   [33m18a8ebf[m Merge pull request #1 from Raptor-077/setup/raptor
+[1;31m|[m[31m\[m [1;31m\[m [35m\[m  
+[1;31m|[m [31m|[m[1;31m/[m [35m/[m  
+[1;31m|[m[1;31m/[m[31m|[m [35m|[m   
+[1;31m|[m [31m|[m [35m|[m * [33m172de64[m[33m ([m[1;31madithya/integration/adithya[m[33m)[m admin logic
+[1;31m|[m [31m|[m [35m|[m[35m/[m  
+[1;31m|[m [31m|[m * [33me5d293b[m[33m ([m[1;32mintegration/adithya[m[33m)[m Oauth
+[1;31m|[m [31m|[m * [33ma88a2d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mintegration/internal[m[33m, [m[1;31morigin/integration/alina[m[33m, [m[1;32mintegration/alina[m[33m)[m Oauth issues resolved
+[1;31m|[m [31m|[m * [33maeb6b0e[m oauth added and tested
+[1;31m|[m [31m|[m [33m|[m * [33mf881612[m[33m ([m[1;35mrefs/stash[m[33m)[m WIP on backend/ams: efe4e3e auth edits
+[1;31m|[m [31m|[m [33m|[m[33m/[m[35m|[m 
+[1;31m|[m [31m|[m [33m|[m * [33m894d656[m index on backend/ams: efe4e3e auth edits
+[1;31m|[m [31m|[m [33m|[m[33m/[m  
+[1;31m|[m [31m|[m * [33mefe4e3e[m[33m ([m[1;32mharshkandra-setup/harsh[m[33m, [m[1;32mbackend/ams[m[33m)[m auth edits
+[1;31m|[m [31m|[m * [33mde24e09[m[33m ([m[1;31morigin/backend/ams[m[33m)[m User controller tested and oauth base laid
+[1;31m|[m [31m|[m * [33m42c9639[m[33m ([m[1;31madithya/setup/raptor[m[33m)[m Trials
+[1;31m|[m [31m|[m[31m/[m  
+[1;31m|[m * [33m2497ef5[m added api stuff and working on oauth
+[1;31m|[m * [33m0338709[m tryna work
+[1;31m|[m * [33mf47ed0b[m 	new file:   server/package-lock.json 	modified:   server/package.json 	new file:   server/server.js
+[1;31m|[m * [33m31c76e6[m docs: Initial setup complete for Adithya M
+[1;31m|[m[1;31m/[m  
+* [33mf4f1d5f[m[33m ([m[1;31madithya/main[m[33m, [m[1;31madithya/HEAD[m[33m)[m feat: Setup initial MERN server
+* [33mc376a40[m feat: Setup initial MERN project structure
+* [33m5cc682f[m Create CONTRIBUTING.md
+* [33ma9bad44[m Adding .gitignore
+* [33m4d77ad9[m Initial commit
+* [33m429f928[m[33m ([m[1;31morigin/setup/alina[m[33m, [m[1;32msetup/alina[m[33m)[m Remove node_modules from repo and update .gitignore
